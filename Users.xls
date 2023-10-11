@@ -1,0 +1,5 @@
+userID	userName	password	fullName	userRole	isActive
+1	mushtaq	pakistan	Mushtaque Asghar	admin	TRUE
+2	vivek	india	Vivek Oberoi	data_entry	TRUE
+3	agha	iran	Agha Sajjad	supervisor	TRUE
+4	khan	afghan	Rashid Khan	quality_control	FALSE
